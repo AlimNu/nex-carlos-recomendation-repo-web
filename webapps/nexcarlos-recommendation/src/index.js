@@ -4,7 +4,7 @@ import { createBrowserHistory } from "history";
 import { Router, Route, Switch } from "react-router-dom";
 
 // pages for this product
-import HomePage from "src/views/LandingPage/home.js";
+import HomePage from "./views/LandingPage/Home.js";
 
 var hist = createBrowserHistory();
 
